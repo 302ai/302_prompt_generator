@@ -1,39 +1,38 @@
-# <p align="center">🤖  AI 提示词专家 🚀✨</p>
+# <p align="center">🤖  AI 提示词专家2.0 🚀✨</p>
 
-<p align="center">AI提示词专家将用户简单的提示语改写成高质量的CO-STAR、CRISPE、QStar(Q*)、变分法、Meta Prompting、CoT思维链、微软优化法和RISE结构的提示语，并且可以在线修改和测试，还提供对文字生成图片的提示语优化，可一键转换为高质量的英文提示语。</p>
+<p align="center">AI提示词专家2.0将用户简单的提示词改写成高质量的CO-STAR、CRISPE、QStar(Q*)、变分法、Meta Prompting、CoT思维链、微软优化法和RISE结构的提示词，并且可以在线修改和测试，还提供对文字生成图片的提示词优化，可一键转换为高质量的英文提示词。</p>
 
 <p align="center"><a href="https://302.ai/tools/prompter/" target="blank"><img src="https://file.302.ai/gpt/imgs/github/20250102/72a57c4263944b73bf521830878ae39a.png" /></a></p >
 
 <p align="center"><a href="README_zh.md">中文</a> | <a href="README.md">English</a> | <a href="README_ja.md">日本語</a></p>
 
-![界面预览](docs/提示词专家.png)
+![界面预览](docs/302_AI_Prompt_Expert_2.0.png)
 
-来自[302.AI](https://302.ai)的[AI 提示词专家](https://302.ai/tools/prompter/)的开源版本。你可以直接登录302.AI，零代码零配置使用在线版本。或者对本项目根据自己的需求进行修改，传入302.AI的API KEY，自行部署。
+来自[302.AI](https://302.ai)的[AI 提示词专家2.0](https://302.ai/tools/prompter/)的开源版本。你可以直接登录302.AI，零代码零配置使用在线版本。或者对本项目根据自己的需求进行修改，传入302.AI的API KEY，自行部署。
 
 ## 界面预览
-输入简单的描述，AI会生成高质量的提示语，有多种结构可供选择。支持在线修改和测试提示语。
-![界面预览](docs/preview.jpg)
+只需输入简单的描述，AI就能生成高质量的提示词，并且支持在线优化和测试提示词。提供多种预设模板和自定义模板可选，满足您的要求。
+![界面预览](docs/302_AI_Prompt_Expert_2.0_screenshot_01.png)      
+
+可通过AI向导完善提示词，手动一步一步优化提示词。
+![界面预览](docs/302_AI_Prompt_Expert_2.0_screenshot_02.png)        
+
+当AI认为当前提示词已达到最高质量，将会输出最终提示词。
+![界面预览](docs/302_AI_Prompt_Expert_2.0_screenshot_03.png)
 
 ## 项目特性
-### 🛠️ 多种优化方案
-支持12种不同的提示词优化方案，提供自定义优化框架的能力。
-
-### 🎯 经典优化框架
-- C0-STAR结构:系统性的提示词组织方法
-- CRISPE结构:全方位的内容生成框架
-- Chain of Thought(coT):通过思维链提升输出质量
-### 🎯 专业创作优化
-- DRAW：专业的AI绘画提示词优化
-- RISE：结构化的提示词增强系统
-- O1-STYLE：风格化创作提示词方案
-### 🎯 高级优化技术
-- Meta Prompting：元提示词优化
-- VARI：变分法优化
-- Q*：智能提示词优化算法
-### 🎯 主流AI平台适配
-- OpenAI优化法：适配GPT系列模型
-- laude优化法：适配Anthropic模型
-- 微软优化法：适配Azure AI服务
+### ⚡ 多种优化方案
+- 支持12种不同的提示词优化方案，提供自定义优化框架的能力
+### 🔄 优化功能
+- 自动优化：提供多种优化方案和模型
+- 手动优化：手动输入需要修改的地方
+### 🧪 测试功能
+- 在线测试：直接测试提示词效果
+### 🤖 AI向导完善
+- 根据简单的描述，手动一步一步优化提示词，最终生成专业的提示词
+### 📑 提示词模板
+- 预设模板：提供丰富的预设模板库
+- 自定义模板：保存个人常用提示词
 ### 🌍 多语言支持
 - 中文界面
 - English Interface
@@ -42,9 +41,8 @@
 通过 AI 提示词专家，将您的创意转化为完美的AI指令! 🎉💻 让我们一起探索AI驱动的代码新世界吧! 🌟🚀
 
 ## 🚩 未来更新计划
-- [ ] 行业细分提示词优化
-- [ ] 更新新兴模型
-- [ ] 增加对法语、德语、西班牙语等语言的转换功能
+- [ ] 新增更多优化方案
+- [ ] 新增更多预设模板
 
 ## 技术栈
 - React
