@@ -2,13 +2,13 @@
 
 <p align="center">AI提示词专家将用户简单的提示语改写成高质量的CO-STAR、CRISPE、QStar(Q*)、变分法、Meta Prompting、CoT思维链、微软优化法和RISE结构的提示语，并且可以在线修改和测试，还提供对文字生成图片的提示语优化，可一键转换为高质量的英文提示语。</p>
 
-<p align="center"><a href="https://302.ai/tools/prompter/" target="blank"><img src="https://file.302.ai/gpt/imgs/github/20250102/72a57c4263944b73bf521830878ae39a.png" /></a></p >
+<p align="center"><a href="https://302.ai/product/detail/24" target="blank"><img src="https://file.302.ai/gpt/imgs/github/20250102/72a57c4263944b73bf521830878ae39a.png" /></a></p >
 
 <p align="center"><a href="README_zh.md">中文</a> | <a href="README.md">English</a> | <a href="README_ja.md">日本語</a></p>
 
 ![界面预览](docs/提示词专家.png)
 
-来自[302.AI](https://302.ai)的[AI 提示词专家](https://302.ai/tools/prompter/)的开源版本。你可以直接登录302.AI，零代码零配置使用在线版本。或者对本项目根据自己的需求进行修改，传入302.AI的API KEY，自行部署。
+来自[302.AI](https://302.ai)的[AI 提示词专家](https://302.ai/product/detail/24)的开源版本。你可以直接登录302.AI，零代码零配置使用在线版本。或者对本项目根据自己的需求进行修改，传入302.AI的API KEY，自行部署。
 
 ## 界面预览
 输入简单的描述，AI会生成高质量的提示语，有多种结构可供选择。支持在线修改和测试提示语。
