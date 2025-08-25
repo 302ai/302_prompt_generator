@@ -3,13 +3,13 @@
 
 <p align="center">AI プロンプト専門家は、ユーザーのシンプルなプロンプトを、CO-STAR、CRISPE、QStar（Q*）、変分法、Meta Prompting、思考の連鎖（CoT）、マイクロソフトの最適化法、RISE 構造の高品質なプロンプトに書き換えます。また、オンラインでの修正とテストも可能です。また、文字から画像を生成するためのプロンプトの最適化も提供し、高品質の英語のプロンプトに一括変換することができます。</p>
 
-<p align="center"><a href="https://302.ai/ja/tools/prompter/" target="blank"><img src="https://file.302.ai/gpt/imgs/github/20250102/72a57c4263944b73bf521830878ae39a.png" /></a></p >
+<p align="center"><a href="https://302.ai/product/detail/24" target="blank"><img src="https://file.302.ai/gpt/imgs/github/20250102/72a57c4263944b73bf521830878ae39a.png" /></a></p >
 
 <p align="center"><a href="README_zh.md">中文</a> | <a href="README.md">English</a> | <a href="README_ja.md">日本語</a></p>
 
 ![インターフェースプレビュー](docs/提示词专家jp.png)
 
-これは[302.AI](https://302.ai/ja/)の[AIプロンプトエキスパート](https://302.ai/ja/tools/prompter/)のオープンソース版です。
+これは[302.AI](https://302.ai/ja/)の[AIプロンプトエキスパート](https://302.ai/product/detail/24)のオープンソース版です。
 302.AIに直接ログインして、コーディング不要で設定不要のオンラインバージョンをご利用いただけます。
 また、このプロジェクトをご自身のニーズに合わせて修正し、302.AIのAPI KEYを設定して独自にデプロイすることも可能です。
 
